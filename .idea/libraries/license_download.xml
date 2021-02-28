@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="license-download">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/license-download/font-awesome-3d-chess-set-1.0.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/license-download/fontawesome-pro-5.11.2-desktop.zip!/" />
+      <root url="jar://$PROJECT_DIR$/license-download/fontawesome-pro-5.12.0-web.zip!/" />
+      <root url="jar://$PROJECT_DIR$/license-download/fontawesome-pro-5.12.0-desktop.zip!/" />
+      <root url="jar://$PROJECT_DIR$/license-download/fontawesome-pro-5.11.2-web.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
